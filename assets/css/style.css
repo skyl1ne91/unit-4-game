@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box
+}
+
+body{
+    background-image: url("https://images2.alphacoders.com/542/thumb-1920-542729.png");
+
+}
+
+#head{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+
+
+
+}
+
+#instruction{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(104, 119, 136);
+    width: 500px;
+    text-align: center;
+   padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+.score{
+ 
+    color:rgb(104, 119, 136);
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+    
+
+}
+
+#wnl{
+
+
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    width: 50%;
+
+
+}
+
+#score-area{
+ 
+    color:rgb(104, 119, 136);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    width: 50%;
+
+ 
+
+}
+#container{
+
+ display: inline-block;
+ position: relative;
+ left: -190px;
+
+
+
+}
+
+#place1{
+    float: left;
+    width: 25%;
+}
+#place2{
+    float: left;
+    width: 25%;
+}
+#place3{
+    float: left;
+    width: 25%;
+}
+#place4{
+    float: left;
+    width: 25%;
+}
+#top{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(104, 119, 136);
+
+}
+#bottom{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(104, 119, 136);
+
+}
